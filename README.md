@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Shubham-EX/Shubham-EX/blob/main/EX.gif?raw=true)(https://rishavchanda.io)
+[![MasterHead](https://github.com/Shubham-EX/Shubham-EX/blob/main/EX.gif?raw=true)](https://shubham-prajapati-b1051a246)
 
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate frontend developer.</h3>
